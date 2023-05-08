@@ -24,8 +24,6 @@ public class student {
         this.name = name;
         this.email = email;
         this.dob = dob;
-
-
     }
 
     public Long getId() {
@@ -84,7 +82,6 @@ public class student {
         this.name = name;
         this.email = email;
         this.dob = dob;
-
     }
 
     public student() {
